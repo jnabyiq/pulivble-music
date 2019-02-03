@@ -1,6 +1,7 @@
-token= NTIwMTcwNjczNzM4NjEyNzM2.Dup-QQ.rezPHmeGxxn2v70GlKARBb_typc
-owner= 444514876967354369 
-prefix= 7n
-game= 7nplay
+token= NTQxNjc2MzIwNTIyODk1MzYw.DzjJsQ.3xJQczVDiw0asduz1vZwRT3EJ4I
+owner= 381396774742523914 
+prefix= p
+game= Complaciendo el sonido de la música para ahogar al mundo.
 stayinchannel=true 
 songinstatus=false 
+setstatus=idle
