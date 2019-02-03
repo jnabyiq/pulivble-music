@@ -1,0 +1,6 @@
+token= NTIwMTcwNjczNzM4NjEyNzM2.Dup-QQ.rezPHmeGxxn2v70GlKARBb_typc
+owner= 444514876967354369 
+prefix= 7n
+game= 7nplay
+stayinchannel=true 
+songinstatus=false 
