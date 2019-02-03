@@ -1,5 +1,5 @@
 token= NTQxNjc2MzIwNTIyODk1MzYw.DzjJsQ.3xJQczVDiw0asduz1vZwRT3EJ4I
-owner= 381396774742523914 
+owner= 541693298872549398
 prefix= p
 game= Complaciendo el sonido de la música para ahogar al mundo.
 stayinchannel=true 
