@@ -1,6 +1,6 @@
 token= NTQxNjc2MzIwNTIyODk1MzYw.DzjJsQ.3xJQczVDiw0asduz1vZwRT3EJ4I
-owner= 323160008411971585
-prefix= p
+owner= 444902575041675274
+prefix= O
 game= Complaciendo el sonido de la música para ahogar al mundo.
 stayinchannel=true 
 songinstatus=false 
